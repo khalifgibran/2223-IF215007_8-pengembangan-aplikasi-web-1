@@ -80,15 +80,27 @@
   - Apa itu Server ?
   - Apa itu Web Server ?
   - Ayo pekerjakan Server !
-    - PHP, si sobat sejuta umat
-    - Apakah selalu harus PHP ?
-        - C++
-        - Python
-        - Ruby
-        - Go
-        - Rust
-        - Javascript
-        - dan puluhan bahasa lainnya bisa kau gunakan
+    - Kasih perintah ke Server pake bahasa apa ?
+        - PHP, si sobat sejuta umat
+        - Apakah selalu harus PHP ?
+            - C++
+            - Python
+            - Ruby
+            - Go
+            - Rust
+            - Javascript
+            - dan puluhan bahasa lainnya bisa kau gunakan
+- [Web Services, Bagaimana Antar Aplikasi Web Ngobrol](/)
+    - Contoh kasus
+        - Gojek
+        - Tokopedia
+        - Payment gateway
+    - Platform populer untuk dicoba
+        - Telegram bot
+        - Discord bot 
+- [Dimana Data Disimpan ? Dari Mana Data Diambil ? 🗃](/)
+    - File system
+    - Database
 - [World Wide Web 🌏](/)
 - [Cloud Services, si Jasa Sewa Segala Rupa](/)
     - Sewa server
@@ -104,12 +116,23 @@
         - Dalam negeri
             - IDCloudHost
             - QWords
-- [Web Framework, Bikin Coding Jadi Mudah](/)
-    - Fullstack
-        - Codeigniter
-        - Laravel
-    - Backend
-    - Frontend
+- [Teknologi Pendukung](/)
+    - [Content Management System, Aplikasi Web Auto Jadi ? 😮](/)
+    - [Web Framework, Bikin Coding Jadi Mudah](/)
+        - Fullstack
+            - Apa itu fullstack ?
+            - Codeigniter
+            - Laravel
+            - NodeJS
+        - Micro Framework
+            - Apa itu micro framework ?
+            - PHP Slim
+            - Python FastAPI
+            - Go Fiber
+        - Frontend
+            - React
+            - Vue
+            - Angular
 
 ## ⚔ The White Hat Hackers
 > The first and best victory is to conquer self.
