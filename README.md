@@ -146,3 +146,9 @@
 ### G-Class
 
 ### E-Class
+
+## Question and Answers 💬
+```
+Q: Mana saja yang masuk UTS UAS ?
+A: OBE memastikan teman-teman memperoleh outcome dari perkuliahan ini
+```
