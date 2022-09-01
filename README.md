@@ -90,32 +90,10 @@
             - Rust
             - Javascript
             - dan puluhan bahasa lainnya bisa kau gunakan
-- [Web Services, Bagaimana Antar Aplikasi Web Ngobrol](/)
-    - Contoh kasus
-        - Gojek
-        - Tokopedia
-        - Payment gateway
-    - Platform populer untuk dicoba
-        - Telegram bot
-        - Discord bot 
 - [Dimana Data Disimpan ? Dari Mana Data Diambil ? 🗃](/)
     - File system
     - Database
 - [World Wide Web 🌏](/)
-- [Cloud Services, si Jasa Sewa Segala Rupa](/)
-    - Sewa server
-        - Virtual server, bebas berdaulat coba semua teknologi
-        - Shared hosting, kontrakan ala CPanel
-    - Sewa nama domain dan sertifikatnya
-    - SaaS, PaaS, dan IaaS
-    - Beberapa tempat sewa, beberapa memberi paket ALWAYS FREE, dan FREE TRIAL
-        - Luar negeri
-            - Amazon Web Service
-            - Google Cloud Platform
-            - Microsoft Azure
-        - Dalam negeri
-            - IDCloudHost
-            - QWords
 - [Teknologi Pendukung](/)
     - [Content Management System, Aplikasi Web Auto Jadi ? 😮](/)
     - [Web Framework, Bikin Coding Jadi Mudah](/)
@@ -133,6 +111,28 @@
             - React
             - Vue
             - Angular
+- [Web Services, Bagaimana Antar Aplikasi Web Ngobrol](/)
+    - Contoh kasus
+        - Gojek
+        - Tokopedia
+        - Payment gateway
+    - Platform populer untuk dicoba
+        - Telegram bot
+        - Discord bot 
+- [Cloud Services, si Jasa Sewa Segala Rupa](/)
+    - Sewa server
+        - Virtual server, bebas berdaulat coba semua teknologi
+        - Shared hosting, kontrakan ala CPanel
+    - Sewa nama domain dan sertifikatnya
+    - SaaS, PaaS, dan IaaS
+    - Beberapa tempat sewa, beberapa memberi paket ALWAYS FREE, dan FREE TRIAL
+        - Luar negeri
+            - Amazon Web Service
+            - Google Cloud Platform
+            - Microsoft Azure
+        - Dalam negeri
+            - IDCloudHost
+            - QWords
 
 ## ⚔ The White Hat Hackers
 > The first and best victory is to conquer self.
