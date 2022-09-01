@@ -92,6 +92,8 @@
 - [World Wide Web 🌏](/)
 - [Cloud Services, si Jasa Sewa Segala Rupa](/)
     - Sewa server
+        - Virtual server, bebas berdaulat coba semua teknologi
+        - Shared hosting, kontrakan ala CPanel
     - Sewa nama domain dan sertifikatnya
     - SaaS, PaaS, dan IaaS
     - Beberapa tempat sewa, beberapa memberi paket ALWAYS FREE, dan FREE TRIAL
@@ -102,7 +104,12 @@
         - Dalam negeri
             - IDCloudHost
             - QWords
-        
+- [Web Framework, Bikin Coding Jadi Mudah](/)
+    - Fullstack
+        - Codeigniter
+        - Laravel
+    - Backend
+    - Frontend
 
 ## ⚔ The White Hat Hackers
 > The first and best victory is to conquer self.
