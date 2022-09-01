@@ -66,7 +66,7 @@
 ## 🌷 The Course
 > The more that you read, the more things you will know. The more that you learn, the more places you’ll go.
 
-- [Komunikasi Digital](/) 📡
+- [Komunikasi Digital 📡](/)
   - Bagaimana data bisa berpindah tempat ?
   - HTTP dan kawan kawan
   - Client dan Server - si peminta dan si pemberi
@@ -78,6 +78,31 @@
     - Javascript, si manipulatif yang karirnya cemerlang
 - [Server](/)
   - Apa itu Server ?
+  - Apa itu Web Server ?
+  - Ayo pekerjakan Server !
+    - PHP, si sobat sejuta umat
+    - Apakah selalu harus PHP ?
+        - C++
+        - Python
+        - Ruby
+        - Go
+        - Rust
+        - Javascript
+        - dan puluhan bahasa lainnya bisa kau gunakan
+- [World Wide Web 🌏](/)
+- [Cloud Services, si Jasa Sewa Segala Rupa](/)
+    - Sewa server
+    - Sewa nama domain dan sertifikatnya
+    - SaaS, PaaS, dan IaaS
+    - Beberapa tempat sewa, beberapa memberi paket ALWAYS FREE, dan FREE TRIAL
+        - Luar negeri
+            - Amazon Web Service
+            - Google Cloud Platform
+            - Microsoft Azure
+        - Dalam negeri
+            - IDCloudHost
+            - QWords
+        
 
 ## ⚔ The White Hat Hackers
 > The first and best victory is to conquer self.
