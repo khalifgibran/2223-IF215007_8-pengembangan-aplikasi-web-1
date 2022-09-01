@@ -73,23 +73,17 @@
 - [Browser dan Halaman Web](/)
   - Browser
   - Halaman web
-    - HTML, si pemberi info
-    - CSS, si penata gaya
-    - Javascript, si manipulatif yang karirnya cemerlang
+  - **Membuat halaman web**
+    - **HTML**, si pemberi info
+    - **CSS**, si penata gaya
+    - **Javascript**, si manipulatif yang karirnya cemerlang
 - [Server](/)
   - Apa itu Server ?
   - Apa itu Web Server ?
   - Ayo pekerjakan Server !
     - Kasih perintah ke Server pake bahasa apa ?
         - PHP, si sobat sejuta umat
-        - Apakah selalu harus PHP ?
-            - C++
-            - Python
-            - Ruby
-            - Go
-            - Rust
-            - Javascript
-            - dan puluhan bahasa lainnya bisa kau gunakan
+        - Puluhan bahasa lainnya yang bisa digunakan (Python, NodeJS, Go, Ruby, Java dsb.)
 - [Dimana Data Disimpan ? Dari Mana Data Diambil ? 🗃](/)
     - File system
     - Database
