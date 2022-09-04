@@ -79,7 +79,11 @@
     - **Javascript**, si manipulatif yang karirnya cemerlang
 - [Server](/)
   - Apa itu Server ?
+    - Linux Server
+    - Windows Server
   - Apa itu Web Server ?
+    - Nginx
+    - Apache
   - Ayo pekerjakan Server !
     - Kasih perintah ke Server pake bahasa apa ?
         - PHP, si sobat sejuta umat
@@ -132,6 +136,10 @@
         - Dalam negeri
             - IDCloudHost
             - QWords
+
+## 📖 Rujukan Umum
+- [Developer Roadmap](https://roadmap.sh/)
+    - 
 
 ## ⚔ The White Hat Hackers
 > The first and best victory is to conquer self.
