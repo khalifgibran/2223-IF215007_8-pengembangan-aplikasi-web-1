@@ -90,32 +90,44 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan=10>CLO-0211</td>
-            <td rowspan=10>30 %</td>
+            <td rowspan=13>CLO-0211</td>
+            <td rowspan=13>30 %</td>
         </tr>
         <tr>
-            <td>Demo : Git installation</td><td>2</td>
+            <td>Demo : Git installation</td><td>1</td>
         </tr>
         <tr>
-            <td>Demo : Github project initialization</td><td>2</td>
+            <td>Demo : Github project initialization</td><td>1</td>
         </tr>
         <tr>
-            <td>Demo : Hoppscotch / Postman access</td><td>2</td>
+            <td>Demo : Hoppscotch / Postman access</td><td>1</td>
         </tr>
         <tr>
-            <td>Demo : PHP installation & PHP info</td><td>5</td>
+            <td>Demo : PHP installation & hello world</td><td>2</td>
         </tr>
         <tr>
-            <td>Demo : MySQL installation</td><td>5</td>
+            <td>Demo : PostgreSQL / MySQL installation</td><td>2</td>
         </tr>        
         <tr>
-            <td>Demo : DBeaver installation & DB connection</td><td>4</td>
+            <td>Demo : DBeaver installation & DB connection</td><td>2</td>
         </tr>
         <tr>
-            <td>Demo : MobaXterm installation & SSH connection</td><td>4</td>
-        </tr>        
+            <td>Demo : MobaXterm installation & SSH connection</td><td>2</td>
+        </tr>
         <tr>
-            <td>Demo : Linux server exploration</td><td>6</td>
+            <td>Demo : NodeJS installation, operation & hello world</td><td>4</td>
+        </tr>
+        <tr>
+            <td>Demo : Linux server operation</td><td>5</td>
+        </tr>
+        <tr>
+            <td>Demo : Nginx / Apache web server installation & operation</td><td>5</td>
+        </tr>
+        <tr>
+            <td>Demo : Cpanel operation</td><td>4</td>
+        </tr>
+        <tr>
+            <td>Demo : Domain registration</td><td>1</td>
         </tr>
     </tbody>
 </table>
