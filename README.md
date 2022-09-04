@@ -109,13 +109,13 @@
             <td>Demo : MySQL installation</td><td>5</td>
         </tr>        
         <tr>
-            <td>Demo : DBeaver installation & DB connection</td><td>5</td>
+            <td>Demo : DBeaver installation & DB connection</td><td>4</td>
         </tr>
         <tr>
-            <td>Demo : MobaXterm installation & SSH connection</td><td>5</td>
+            <td>Demo : MobaXterm installation & SSH connection</td><td>4</td>
         </tr>        
         <tr>
-            <td>Demo : Linux server exploration</td><td>5</td>
+            <td>Demo : Linux server exploration</td><td>6</td>
         </tr>
     </tbody>
 </table>
