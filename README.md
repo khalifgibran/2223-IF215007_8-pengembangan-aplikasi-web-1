@@ -185,6 +185,7 @@
   - **Membuat halaman web**
     - **HTML**, si pemberi info
     - **CSS**, si penata gaya
+        - Media query, be responsive !
         - Flexbox, ayo membuat layout !
         - @keyframe, ayo membuat animasi !
     - **Javascript**, si manipulatif yang karirnya cemerlang
