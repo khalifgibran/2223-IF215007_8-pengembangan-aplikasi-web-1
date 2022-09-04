@@ -252,6 +252,8 @@
         - Dalam negeri
             - IDCloudHost
             - QWords
+- Keamanan Informasi Pada Aplikasi Berbasis Web
+  - OWASP
 - Alur Proyek Pembangunan Aplikasi Berbasis Web
 - Jenis Pekerjaan Terkait Mata Kuliah ini 
 
