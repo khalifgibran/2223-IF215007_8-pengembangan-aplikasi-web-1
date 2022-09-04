@@ -134,13 +134,13 @@
             <td rowspan=13>35 %</td>
         </tr>
         <tr>
-            <td>Demo : Git installation</td><td>1</td>
+            <td>Demo : HTML Responsive Layout with Media Query & Flexbox</td><td>3</td>
         </tr>
         <tr>
-            <td>Demo : Github project initialization</td><td>1</td>
+            <td>Demo : Javascript Data Transformation</td><td>3</td>
         </tr>
         <tr>
-            <td>Demo : Hoppscotch / Postman access</td><td>1</td>
+            <td>Demo : Browser API - Event Handling, Local Storage, Element manipulation</td><td>6</td>
         </tr>
         <tr>
             <td>Demo : PHP installation & hello world</td><td>2</td>
@@ -178,6 +178,8 @@
 - [Komunikasi Digital 📡](/)
   - Bagaimana data bisa berpindah tempat ?
   - HTTP dan kawan kawan
+    - Struktur HTTP Request
+    - Struktur HTTP Response
   - Client dan Server - si peminta dan si pemberi
 - [Browser dan Halaman Web](/)
   - Browser
@@ -232,6 +234,7 @@
         - Github
         - Gitlab
 - [Web Services, Bagaimana Antar Aplikasi Web Ngobrol](/)
+    - JSON, bahasa tuker-tukeran data sejuta umat
     - Contoh kasus
         - Gojek
         - Tokopedia
@@ -275,6 +278,8 @@
     - [Responsive Design](https://web.dev/learn/design/)
     - [Progressive Web Apps](https://web.dev/learn/pwa/)
 - Web Server
+  - [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+    - [POST](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST)
 
 ## ⚔ The White Hat Hackers
 > The first and best victory is to conquer self.
