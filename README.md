@@ -76,7 +76,14 @@
   - **Membuat halaman web**
     - **HTML**, si pemberi info
     - **CSS**, si penata gaya
+        - Flexbox, ayo membuat layout !
+        - @keyframe, ayo membuat animasi !
     - **Javascript**, si manipulatif yang karirnya cemerlang
+  - Ayo kendalikan web browser dan halaman web dengan Javascript !
+    - Apa itu Web Browser API ?
+  - **Responsive Design** si adaptif
+    - Mobile browser
+    - **Progressive Web App (PWA)** si makhluk amfibi
 - [Server](/)
   - Apa itu Server ?
     - Linux Server
@@ -137,9 +144,22 @@
             - IDCloudHost
             - QWords
 
-## 📖 Rujukan Umum
+## 📖 References
 - [Developer Roadmap](https://roadmap.sh/)
-    - 
+- Browser & Web Page
+    - [HTML](https://www.tutorialspoint.com/html/index.htm)
+    - [CSS](https://web.dev/learn/css/)
+        - [CSS Flexbox - web.dev](https://web.dev/learn/css/flexbox/)
+        - [CSS Flexbox - css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+        - [CSS Animation - web.dev](https://web.dev/learn/css/animations/)
+    - [Web API - Javascript](https://developer.mozilla.org/en-US/docs/Web/API)
+        - [HTML DOM API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API)
+        - [Document interface](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+        - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+        - [File API](https://developer.mozilla.org/en-US/docs/Web/API/File_API)
+        - [Web Storage API - localstorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+    - [Responsive Design](https://web.dev/learn/design/)
+    - [Progressive Web Apps](https://web.dev/learn/pwa/)
 
 ## ⚔ The White Hat Hackers
 > The first and best victory is to conquer self.
