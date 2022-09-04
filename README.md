@@ -140,10 +140,10 @@
             <td>Demo : Javascript Data Transformation</td><td>3</td>
         </tr>
         <tr>
-            <td>Demo : Browser API - Event Handling, Local Storage, Element manipulation</td><td>6</td>
+            <td>Demo : Browser API - Event Handling, Local Storage, Element manipulation</td><td>5</td>
         </tr>
         <tr>
-            <td>Demo : PHP installation & hello world</td><td>2</td>
+            <td>Demo : HTTP GET & POST using Form Action and Fetch API</td><td>5</td>
         </tr>
         <tr>
             <td>Demo : PostgreSQL / MySQL installation</td><td>2</td>
