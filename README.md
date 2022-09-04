@@ -29,7 +29,7 @@
             <td rowspan=3>30 %</td>
         </tr>
         <tr>
-            <td>Video kreatif</td><td>20</td>
+            <td>Video 5 SD</td><td>20</td>
         </tr>
         <tr>
             <td>Quiz</td><td>10</td>
@@ -95,7 +95,7 @@
             - Apa itu fullstack ?
             - Codeigniter
             - Laravel
-            - NodeJS
+            - Javascript
         - Micro Framework
             - Apa itu micro framework ?
             - PHP Slim
@@ -105,6 +105,11 @@
             - React
             - Vue
             - Angular
+    - Javascript Mangkal di Terminal: NodeJS
+    - Kolaborasi Coding dan Otomasi Deployment via Platform Berbasis Git
+        - Git
+        - Github
+        - Gitlab
 - [Web Services, Bagaimana Antar Aplikasi Web Ngobrol](/)
     - Contoh kasus
         - Gojek
