@@ -34,7 +34,7 @@
             <td>Quiz</td><td>5</td>
         </tr>
         <tr>
-            <td>Media Ajar Untuk Indonesia</td><td>25</td>
+            <td>Media Ajar 5 SD</td><td>25</td>
         </tr>
         <tr>
             <td rowspan=6>CLO-0212</td>
