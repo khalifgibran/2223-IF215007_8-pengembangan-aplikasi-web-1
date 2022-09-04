@@ -14,6 +14,8 @@
 
 > We must all suffer from one of two pains: the pain of discipline or the pain of regret.
 
+### Theory Class (2 credit)
+
 <table>
     <thead>
         <tr>
@@ -29,36 +31,91 @@
             <td rowspan=3>30 %</td>
         </tr>
         <tr>
-            <td>Video 5 SD</td><td>20</td>
+            <td>Quiz</td><td>5</td>
         </tr>
         <tr>
-            <td>Quiz</td><td>10</td>
+            <td>Media Ajar Untuk Indonesia</td><td>25</td>
+        </tr>
+        <tr>
+            <td rowspan=6>CLO-0212</td>
+            <td rowspan=6>35 %</td>
+        </tr>
+        <tr>
+            <td>Quiz</td><td>5</td>
+        </tr>
+        <tr>
+            <td>Project: Proposal</td><td>3</td>
+        </tr>
+        <tr>
+            <td>Project: Web Page</td><td>10</td>
+        </tr>
+        <tr>
+            <td>Project: Backend</td><td>17</td>
+        </tr>
+        <tr>
+            <td>Sertifikat Seminar, Training & Workshop</td><td>+5</td>
+        </tr>
+        <tr>
+            <td rowspan=6>CLO-0213</td>
+            <td rowspan=6>35 %</td>
+        </tr>
+        <tr>
+            <td>Quiz</td><td>5</td>
+        </tr>
+        <tr>
+            <td>Project: Web Page</td><td>10</td>
+        </tr>
+        <tr>
+            <td>Project: Backend</td><td>15</td>
+        </tr>
+        <tr>
+            <td>Peragaan: CMS</td><td>5</td>
+        </tr>
+        <tr>
+            <td>Sertifikat Seminar, Training & Workshop</td><td>+5</td>
+        </tr>
+    </tbody>
+</table>
+
+### Workshop Class (1 credit)
+
+<table>
+    <thead>
+        <tr>
+            <th>CLO</th>
+            <th>Bobot CLO</th>
+            <th>Bentuk Asesmen</th>
+            <th>Bobot Asesmen</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=10>CLO-0211</td>
+            <td rowspan=10>30 %</td>
+        </tr>
+        <tr>
+            <td>Demo : Git installation</td><td>2</td>
+        </tr>
+        <tr>
+            <td>Demo : Github project initialization</td><td>2</td>
+        </tr>
+        <tr>
+            <td>Demo : Hoppscotch / Postman access</td><td>2</td>
+        </tr>
+        <tr>
+            <td>Demo : PHP installation & PHP info</td><td>5</td>
+        </tr>
+        <tr>
+            <td>Demo : MySQL installation</td><td>5</td>
         </tr>        
         <tr>
-            <td rowspan=4>CLO-0212</td>
-            <td rowspan=4>35 %</td>
+            <td>Demo : DBeaver installation & DB connection</td><td>5</td>
         </tr>
         <tr>
-            <td>-</td><td>-</td>
-        </tr>
+            <td>Demo : MobaXterm installation & SSH connection</td><td>5</td>
+        </tr>        
         <tr>
-            <td>-</td><td>-</td>
-        </tr>
-        <tr>
-            <td>-</td><td>-</td>
-        </tr>
-        <tr>
-            <td rowspan=4>CLO-0213</td>
-            <td rowspan=4>35 %</td>
-        </tr>
-        <tr>
-            <td>-</td><td>-</td>
-        </tr>
-        <tr>
-            <td>-</td><td>-</td>
-        </tr>
-        <tr>
-            <td>-</td><td>-</td>
+            <td>Demo : Linux server exploration</td><td>5</td>
         </tr>
     </tbody>
 </table>
