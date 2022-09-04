@@ -129,6 +129,46 @@
         <tr>
             <td>Demo : Domain registration</td><td>1</td>
         </tr>
+        <tr>
+            <td rowspan=13>CLO-0212</td>
+            <td rowspan=13>35 %</td>
+        </tr>
+        <tr>
+            <td>Demo : Git installation</td><td>1</td>
+        </tr>
+        <tr>
+            <td>Demo : Github project initialization</td><td>1</td>
+        </tr>
+        <tr>
+            <td>Demo : Hoppscotch / Postman access</td><td>1</td>
+        </tr>
+        <tr>
+            <td>Demo : PHP installation & hello world</td><td>2</td>
+        </tr>
+        <tr>
+            <td>Demo : PostgreSQL / MySQL installation</td><td>2</td>
+        </tr>        
+        <tr>
+            <td>Demo : DBeaver installation & DB connection</td><td>2</td>
+        </tr>
+        <tr>
+            <td>Demo : MobaXterm installation & SSH connection</td><td>2</td>
+        </tr>
+        <tr>
+            <td>Demo : NodeJS installation, operation & hello world</td><td>4</td>
+        </tr>
+        <tr>
+            <td>Demo : Linux server operation</td><td>5</td>
+        </tr>
+        <tr>
+            <td>Demo : Nginx / Apache web server installation & operation</td><td>5</td>
+        </tr>
+        <tr>
+            <td>Demo : Cpanel operation</td><td>4</td>
+        </tr>
+        <tr>
+            <td>Demo : Domain registration</td><td>1</td>
+        </tr>
     </tbody>
 </table>
 
@@ -212,6 +252,8 @@
         - Dalam negeri
             - IDCloudHost
             - QWords
+- Alur Proyek Pembangunan Aplikasi Berbasis Web
+- Jenis Pekerjaan Terkait Mata Kuliah ini 
 
 ## 📖 References
 - [Developer Roadmap](https://roadmap.sh/)
