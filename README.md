@@ -160,6 +160,7 @@
         - [Web Storage API - localstorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
     - [Responsive Design](https://web.dev/learn/design/)
     - [Progressive Web Apps](https://web.dev/learn/pwa/)
+- Web Server
 
 ## ⚔ The White Hat Hackers
 > The first and best victory is to conquer self.
