@@ -16,9 +16,9 @@
 - Web client
 - Web server
 
-## Hypertext Markup Language - HTML
+## Hypertext/media Markup Language - HTML
 
-## Hypertext Transfer Protocol - HTTP
+## Hypertext/media Transfer Protocol - HTTP
 - Content-type
 - Method
 
