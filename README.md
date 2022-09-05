@@ -279,16 +279,16 @@
         - [CSS Flexbox - css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
         - [CSS Animation - web.dev](https://web.dev/learn/css/animations/)
     - [Web API - Javascript](https://developer.mozilla.org/en-US/docs/Web/API)
-        - [HTML DOM API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API)
-        - [Document interface](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+        - [HTML DOM API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API) ✨✨✨✨✨
+        - [Document interface](https://developer.mozilla.org/en-US/docs/Web/API/Document) ✨✨✨✨✨
         - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
         - [File API](https://developer.mozilla.org/en-US/docs/Web/API/File_API)
         - [Web Storage API - localstorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
     - [Responsive Design](https://web.dev/learn/design/)
     - [Progressive Web Apps](https://web.dev/learn/pwa/)
 - Web Server
-  - [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-    - [POST](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST)
+  - [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) ✨✨✨✨✨
+    - [POST](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST) ✨
 
 ## ⚔ The White Hat Hackers
 > The first and best victory is to conquer self.
