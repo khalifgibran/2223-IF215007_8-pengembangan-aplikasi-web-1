@@ -18,7 +18,7 @@
 
 ## Hypertext/media Markup Language - HTML
 
-## Hypertext/media Transfer Protocol - HTTP
+## Hypertext/media Transfer Protocol - HTTP ✨✨✨✨✨
 - Content-type
 - Method
 
@@ -28,6 +28,7 @@
 - HTML
 - CSS
 - Javascript
+- Browser API ✨✨✨✨✨
 - Online & offline source
 
 ## Web page
