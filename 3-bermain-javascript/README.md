@@ -4,9 +4,19 @@
 
 ## Variable
 
-## Condition
+## Conditionals
+
+### If Else
+
+### Ternary
+
+### Switch
 
 ## Function
+
+### Common
+
+### ES6 Arrow
 
 Referensi:
 - [W3Schools - JS Function](https://www.w3schools.com/js/js_functions.asp)
