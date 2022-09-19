@@ -2,14 +2,19 @@
 
 ## ES 5 ke ES 6
 
-## Pendefinisian Variable
+## Variable
 
-## Struktur Data
-
-## Looping
+## Condition
 
 ## Function
 
-## Class
+Referensi:
+- [W3Schools - JS Function](https://www.w3schools.com/js/js_functions.asp)
 
-## Function Sebagai Object
+## Object
+
+## Array
+
+## Looping
+
+## Class
