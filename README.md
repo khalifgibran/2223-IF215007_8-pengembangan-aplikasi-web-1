@@ -197,6 +197,8 @@
         - Media query, be responsive !
         - Flexbox, ayo membuat layout !
         - @keyframe, ayo membuat animasi !
+            - @keyframe untuk merancang animasi berbasis properti CSS, dan persen waktu
+            - animaton / animation-* untuk mendeploy animasinya (durasi, mode animasi, dsb.)
     - **Javascript**, si manipulatif yang karirnya cemerlang
   - Ayo kendalikan web browser dan halaman web dengan Javascript !
     - Apa itu Web Browser API ?
