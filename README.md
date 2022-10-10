@@ -196,7 +196,7 @@
     - **CSS**, si penata gaya
         - Media query, be responsive !
         - Flexbox, ayo membuat layout !
-        - @keyframe, ayo membuat animasi !
+        - [@keyframe dan animation, ayo membuat animasi !](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations#defining_the_animation_sequence_using_keyframes)
             - @keyframe untuk merancang animasi berbasis properti CSS, dan persen waktu
             - animaton / animation-* untuk mendeploy animasinya (durasi, mode animasi, dsb.)
     - **Javascript**, si manipulatif yang karirnya cemerlang
