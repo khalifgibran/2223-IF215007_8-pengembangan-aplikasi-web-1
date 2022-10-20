@@ -21,7 +21,11 @@
 npm install -g nodemon  
 ```
 - A: Diinstall nya pake tanda -g artinya global, diinstall disekomputereun. Agar dapat dipakai dari project2 lainnya
-- A: Selanjutnya kita install pemeran utamannya, package Express JS, bareng dengan package tetangganya yang namanya cors yang memudahkan web service kamu diakses dari mana aja
+- A: Selanjutnya, dari terminal / command line, masuk ke folder tempat kamu akan bikin projectnya misal
+```sh
+cd naufal/praktikum/pertemuan-7
+```
+- A: Selanjutnya dari folder tersebut, kita install package Express JS, bareng dengan package tetangganya yang namanya cors yang memudahkan web service kamu diakses dari mana aja
 ```javascript
 npm install cors express
 ```
