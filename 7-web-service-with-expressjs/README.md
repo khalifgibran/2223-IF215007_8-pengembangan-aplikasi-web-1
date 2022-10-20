@@ -12,7 +12,7 @@
 - Q: Oke2, wkwkwk. Trus apa tuh RESTful API itu ?
 - A: Standar format web service HTTP berbasis [REST](https://glints.com/id/lowongan/rest-adalah/) dengan url yang merepresentasikan objek (bukan perintah). Misal, kalo mau beli makanan, ga pake url POST /beli-makanan, tapi pake url POST /pembelian, dan GET /pembelian ketika ingin lihat kita sudah belanja apa aja.
 
-## Express JS
+## Instalasi Express JS
 - Q: Oke2, trus apa hubungannya dengan praktikum kali ini ?
 - A: Ya, kita bikin RESTful API menggunakan Express JS, framework Javacsript yang bisa dipakai untuk bikin web service (untuk mesin), maupun bikin web page (untuk orang)
 - Q: Hmm, diinstall pake NPM ?
@@ -25,7 +25,35 @@ npm install -g nodemon
 ```sh
 cd naufal/praktikum/pertemuan-7
 ```
-- A: Selanjutnya dari folder tersebut, kita install package Express JS, bareng dengan package tetangganya yang namanya cors yang memudahkan web service kamu diakses dari mana aja
+- A: Lalu, inisiasi project Node di dalam folder tersebut dengan perintah
+```sh
+npm init
+```
+- A: Setelah inisiasi project Node selesai, kita install package Express JS, bareng dengan package tetangganya yang namanya cors yang memudahkan web service kamu diakses dari mana aja
 ```javascript
 npm install cors express
+```
+
+## Membuat File Inisiasi Aplikasi Express JS
+- A: Buat file dengan nama **app.js** di dalam folder project tersebut, lalu isi dengan
+```javascript
+const express = require('express')
+const app = express()
+const port = 3000
+
+app.use(cors({
+    origin: '*'
+}));
+
+app.get('/', (req, res) => {
+  res.send('Hello World!')
+})
+
+app.listen(port, () => {
+  console.log(`Example app listening on port ${port}`)
+})
+```
+- A: Jika sudah disave, selanjutnya kita jalankan Express JS nya via terminal dengan perintah
+```sh
+nodemon app.js
 ```
