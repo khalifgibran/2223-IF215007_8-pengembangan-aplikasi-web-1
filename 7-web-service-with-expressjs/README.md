@@ -61,11 +61,20 @@ nodemon app.js
 ## Membuat Route RESTful API Sesuai Project Mandiri Temen-Temen
 - A: Misal untuk aplikasi baca n rating buku
 ```javascript
+
+// Mengimpor objek express ke variabel express
 const express = require('express')
+
+// Mengimpor objek cors ke variabel cors
 const cors = require('cors')
+
+// Inisiasi objek aplikasi express ke variabel app
 const app = express()
+
+// Port web service
 const port = 3000
 
+// Konfigurasi CORS yang mengizinkan halaman diakses oleh semua sumber
 app.use(cors({
     origin: '*'
 }));
